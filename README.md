@@ -1,6 +1,6 @@
 # FCformer
 Codes, dataset, and results for FCformer: A Feature Compression Transformer for Extreme Weather Image Restoration.
-![Degradations](/figures/degradations.pdf)
+![Degradations](https://github.com/Emersonzyh/FCformer/blob/08ebdda1ce19352b666d06c228ddf2f9bf3787d5/figures/degradations.pdf)
 ![Datasets](/figures/dataset_comparision.pdf)
 ![Object_Detection](/figures/od_display.pdf)
 ![Architecture](/figures/architecture_new.pdf)
